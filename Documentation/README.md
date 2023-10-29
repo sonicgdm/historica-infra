@@ -8,6 +8,7 @@ Howtos
 ![plot](../images/screenshot_2023-10-29T15\:03\:57.png)
 
 2. In the left menu find "Studio" and after that in new menu click on "Open Studio" button
+Please make sure you use "Frankfurt" (eu-central-1) region
 ![plot](../images/screenshot_2023-10-29T15\:03\:34.png)
 
 ## Configure
