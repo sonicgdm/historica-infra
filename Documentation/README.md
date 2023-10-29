@@ -4,11 +4,11 @@ Howtos
 
 ## Launch Studio
 
-1. Open the SageMaker Studio interface. Click on Launch
-![plot](../images/screenshot_2023-10-29T14\:01\:05.png)
+1. After Login to AWS go to search panel on top and enter "Sagemaker". You will see link to service "Amazon SageMaker". Click on it
+![plot](../images/screenshot_2023-10-29T15\:03\:57.png)
 
-2. launch
-![plot](../images/screenshot_2023-10-29T14\:01\:21.png)
+2. In the left menu find "Studio" and after that in new menu click on "Open Studio" button
+![plot](../images/screenshot_2023-10-29T15\:03\:34.png)
 
 ## Configure
 
